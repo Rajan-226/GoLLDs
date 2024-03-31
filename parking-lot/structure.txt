@@ -1,0 +1,15 @@
+
+models
+    -
+
+
+each model will have
+    - an entity containing schema in form of struct with getters setters
+    - a repo with map for storing, retrieving, deleting and updating data
+
+
+
+main file
+    - as driver of code
+    - basically like hitting different apis
+
